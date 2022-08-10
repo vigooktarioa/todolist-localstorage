@@ -6,4 +6,4 @@
 <p>Tech Stack : React, Stylesheet (CSS), Web Storage</p>
 
 
-Deployment : https://calculator-react-sandy.vercel.app/
+Deployment : https://todolist-localstorage.vercel.app/
