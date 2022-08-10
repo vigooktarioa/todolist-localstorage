@@ -2,7 +2,7 @@
 
 <p>Created with React, JS and CSS</p>
 <p>Package Manager : NPM and Yarn</p>
-<p>Dependencies : react, react-dom, react-scripts</p>
+<p>Dependencies : react, react-dom, react-scripts, bootstrap</p>
 <p>Tech Stack : React, Stylesheet (CSS), Web Storage</p>
 
 
